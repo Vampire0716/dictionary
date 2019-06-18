@@ -1,0 +1,1 @@
+print("方案一：what are you thinking about?")
