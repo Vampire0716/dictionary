@@ -1,1 +1,1 @@
-print("方案二：what are you thinking about?")
+print("方案二：")
