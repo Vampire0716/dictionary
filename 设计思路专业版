@@ -1,0 +1,27 @@
+1.基于multiprocessing多并发
+2.创建数据库
+    1.字典表：使用dict--words
+    2.用户表：id name passwd
+    3.历史记录：id name word time
+
+3.结构设计，如何封装。客户端服务端工作流程
+    *客户端（发请求，展示结果）
+    *服务端（）
+    *数据库操作段
+    界面处理：
+        while True:
+            界面一
+            while True:
+                界面二
+                if注销
+                返回一级界面
+
+4.功能模块划分
+    *网络搭建
+    *注册
+    *登录
+    *查单词
+    *历史记录
+
+
+注册协议：客户端 R name passwd
